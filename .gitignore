@@ -32,4 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 
-*local_only*
+**/*local_only*
